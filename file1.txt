@@ -1,2 +1,4 @@
 //git checkout -- filename
 //git reset head filename
+//git stash save ''
+//hello world
