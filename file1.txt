@@ -11,6 +11,6 @@
 //git checkout uat
 //git pull  // local uat up to date
 //git checkout feature-a
-//git rebase uat
+//git rebase uat [uat in the front, feature-a in the back]
 //git checkout uat
 //git merge feature-a
